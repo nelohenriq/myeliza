@@ -1,5 +1,6 @@
 {
   "name": "eliza",
+  "type": "module",
   "scripts": {
     "format": "biome format --write .",
     "lint": "biome lint .",
